@@ -45,7 +45,7 @@
 
 - 📫 How to reach me **salehsheikh786@gmail.com**
 
-- ⚡ Fun fact **Code whisperer**
+- ⚡ Fun fact **Code Crafting Adventures**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
