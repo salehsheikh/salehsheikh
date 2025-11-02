@@ -39,7 +39,7 @@
 
 - 🌱 I’m currently learning **GraphQl & PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://salehshk.netlify.app/](https://salehshk.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-saleh-94.vercel.app](https://portfolio-saleh-94.vercel.app)
 
 - 💬 Ask me about **React, Next, NodeJS and React Native**
 
